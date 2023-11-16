@@ -1,6 +1,6 @@
 # ft_printf
-This repository contains the implementation of the ft_printf function, which mimics the behavior of the original printf function from the C standard library.
-
+This repository contains the implementation of the ft_printf function, which mimics the behavior of the original printf function from the C standard library.  
+<img width="217" alt="ft_printf_pic" src="https://github.com/fredrukundo/ft_printf/assets/105452272/466cd9f0-b93c-4128-a937-b6ba2793c777">
 # Project Overview
 # Files
 **Makefile:** Contains rules for compiling the project. Includes __all__, __clean__, __fclean__, and __re__ targets.  
